@@ -1,0 +1,4 @@
+https://medium.com/@mohamededrah/javascript-gotchas-2f6d94189b6
+https://www.digitalocean.com/community/tutorials/js-gotchas
+https://blog.jonlu.ca/posts/javascript-facts
+https://blog.codacy.com/short-guide-to-javascript-gotchas/
